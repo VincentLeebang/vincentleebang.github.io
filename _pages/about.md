@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student in Computer Science at Uniersity of Southern California. I'm part of [LUKA LAb](https://luka-group.github.io/) where I am very grateful to be advised by Dr.[Muhao Chen](https://muhaochen.github.io/). Before coming to USC, I received my Bachelor's Degree from University of Illinois at Urbana-Champaign where I was fortunate to work with Dr.[Jiawei Han](http://hanj.cs.illinois.edu/).
+I'm a first-year Ph.D. student in Computer Science at Uniersity of Southern California. I'm part of [LUKA LAb](https://luka-group.github.io/) where I am very grateful to be advised by Dr. [Muhao Chen](https://muhaochen.github.io/). Before coming to USC, I received my Bachelor's Degree from University of Illinois at Urbana-Champaign where I was fortunate to work with Dr. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 My reasearch interests lie in Natual Language Processing and Machine Learning, specifically focusing on understanding and reasoning in contexts; Information Extraction; and Question Answering.
 
