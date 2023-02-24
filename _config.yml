@@ -11,9 +11,9 @@ title                    : "Bangzheng Li"
 title_separator          : "-"
 name                     : &name "Bangzheng Li"
 description              : &description "First-year Ph.D student at University of Southern California"
-url                      : https://vincentleebang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vincentleebang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vincentleebang.github.io/"
+repository               : "vincentleebang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
